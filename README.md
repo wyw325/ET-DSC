@@ -1,20 +1,20 @@
 # ET-DSC
 
 
-# 我的项目
-
+# Motivation
 <p align="center">
-  <img src="png/Figure1.png" alt="项目演示" width="600"/>
+  <img src="png/Figure1.png" alt="项目演示" width="100"/>
 </p>
 
-## 功能截图
+# Model
+<p align="center">
+  <img src="png/Figure2.png" alt="项目演示" width="100"/>
+</p>
 
-<table>
-  <tr>
-    <td><img src="png/Figure2.png" alt="功能1" width="250"/></td>
-    <td><img src="png/Figure6.png" alt="功能2" width="250"/></td>
-  </tr>
-</table>
+# ET-DSC
+<p align="center">
+  <img src="png/Figure6.png" alt="项目演示" width="100"/>
+</p>
 
 
 Coming soon
