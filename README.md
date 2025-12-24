@@ -19,4 +19,7 @@
 </p>
 -->
 
+trained on NUDT
+https://pan.baidu.com/s/1IyNp7tkGa6Kd6hLFgDNetA?pwd=qqyu and the code is qqyu.
+
 Coming soon
