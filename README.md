@@ -1,24 +1,24 @@
 # ET-DSC
 
-
-# Motivation
-<p align="center">
-  <img src="png/Figure1.png" alt="项目演示" width="300"/>
-</p>
-
 <!-- 这是一个注释 -->
 <!--
 Coming soon
+# Motivation
+<p align="center">
+  <img src="png/Figure1.png" alt="项目演示" width="600"/>
+</p>
+-->
+
+
+
+# Model
 <p align="center">
   <img src="png/Figure2.png" alt="项目演示" width="600"/>
 </p>
--->
-# Model
-
 
 # ET-DSC
 <p align="center">
-  <img src="png/Figure6.png" alt="项目演示" width="400"/>
+  <img src="png/Figure6.png" alt="项目演示" width="600"/>
 </p>
 
 Our pre-trained model file is available at:
