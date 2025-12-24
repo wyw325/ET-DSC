@@ -1,0 +1,25 @@
+time:--17/12/2025 20:17:35
+model:--DNANet
+channel_size:--three
+backbone:--resnet_18
+deep_supervision:--True
+dataset:--NUAA-SIRST
+mode:--TXT
+test_size:--0.5
+root:--dataset/
+suffix:--.png
+split_method:--50_50
+workers:--0
+in_channels:--3
+base_size:--256
+crop_size:--256
+epochs:--1501
+start_epoch:--0
+train_batch_size:--16
+test_batch_size:--32
+min_lr:--1e-05
+optimizer:--Adagrad
+scheduler:--CosineAnnealingLR
+lr:--0.05
+gpus:--0
+save_dir:--NUAA-SIRST_DNANet_17_12_2025_20_17_35_wDS
