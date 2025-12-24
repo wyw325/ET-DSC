@@ -8,15 +8,17 @@
 
 <!-- 这是一个注释 -->
 <!--
+Coming soon
+<p align="center">
+  <img src="png/Figure2.png" alt="项目演示" width="600"/>
+</p>
 -->
 # Model
-<p align="center">
-  <img src="png/Figure2.png" alt="项目演示" width="300"/>
-</p>
+
 
 # ET-DSC
 <p align="center">
-  <img src="png/Figure6.png" alt="项目演示" width="300"/>
+  <img src="png/Figure6.png" alt="项目演示" width="400"/>
 </p>
 
 Our pre-trained model file is available at:
@@ -27,4 +29,4 @@ https://pan.baidu.com/s/1IyNp7tkGa6Kd6hLFgDNetA and the code is qqyu.
 trained on NUAA
 https://pan.baidu.com/s/1WpaF12ttKxoN5r1mIXFJ1g and the code is e26y.
 
-Coming soon
+
