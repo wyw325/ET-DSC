@@ -14,12 +14,12 @@ Coming soon
 
 # Model
 <p align="center">
-  <img src="png/Figure2.png" alt="项目演示" width="600"/>
+  <img src="Fig/Figure2.png" alt="项目演示" width="600"/>
 </p>
 
 # ET-DSC
 <p align="center">
-  <img src="png/Figure6.png" alt="项目演示" width="600"/>
+  <img src="Fig/Figure6.png" alt="项目演示" width="600"/>
 </p>
 
 Our pre-trained model file is available at:
